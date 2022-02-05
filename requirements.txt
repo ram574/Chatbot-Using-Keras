@@ -1,0 +1,10 @@
+Requirements
+
+python3.10
+Pandas ---latest
+numpy --latest
+NLTK --latest
+NLTK all corpora download
+Tensorflow --latest
+Keras --letest
+Tkinter latest
