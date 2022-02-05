@@ -27,6 +27,10 @@ A simple chatbot using keras, Tensorflow, NLTK, Tkinter
 * ponagantit@cytech.fr
 * ponagantit.cytech@gmail.com
 
+Business Objective:
+
+A chatbot is an intelligent piece of software that is capable of communicating and performing actions similar to a human. Chatbots are used a lot in customer interaction, marketing on social network sites and instantly messaging the client. There are two basic types of chatbot models based on how they are built; Retrieval based and Generative based models.
+
 Result : 
 
 <img width="402" alt="Screenshot 2022-02-05 at 02 40 23" src="https://user-images.githubusercontent.com/38869311/152652386-c0af0e86-3128-450e-8eb2-16a66daf791a.png">
