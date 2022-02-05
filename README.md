@@ -9,7 +9,7 @@ A simple chatbot using keras, Tensorflow, NLTK, Tkinter
 ## I'm a Data Science, Machine Learning, NLP, Deep Learning, Artificial Intelligence Enthusiast!!
 
 - 🔭 I am a recent Graduate : [Want to Become A Data Scientist!]
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m Data enthusiast love to learn new Tech  🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Improve and gain Knowledge on ML techniques
 - ⚡ Fun fact: I love to travel, play video games, reading and writing articles
